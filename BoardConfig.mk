@@ -141,12 +141,6 @@ TARGET_USES_MKE2FS := true
 # Target copy out
 TARGET_COPY_OUT_VENDOR := vendor
 
-# Dynamic partitions
-BOARD_SUPER_PARTITION_GROUPS := main
-BOARD_SUPER_PARTITION_SIZE := 6794772480
-BOARD_MAIN_SIZE := 6794772480
-BOARD_MAIN_PARTITION_LIST := system odm vendor product
-
 # Use extra folders
 BOARD_ROOT_EXTRA_FOLDERS := cache carrier data_mirror efs keyrefuge linkerconfig metadata omr optics prism spu
 
