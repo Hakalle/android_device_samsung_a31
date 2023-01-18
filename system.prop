@@ -2,8 +2,6 @@
 ro.display.series=Samsung Galaxy A31
 
 # product/board stuff
-# https://browser.geekbench.com/v5/cpu/1359651
-ro.product.board=k68v1_64_titan
 ro.board.platform=mt6768
 
 # Disable Rescue Party
